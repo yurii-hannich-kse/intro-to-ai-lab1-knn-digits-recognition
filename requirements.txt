@@ -1,0 +1,11 @@
+numpy
+matplotlib
+scikit-learn
+torch
+torchvision
+umap-learn
+pytest
+nbformat
+jupyter
+notebook
+ipywidgets
