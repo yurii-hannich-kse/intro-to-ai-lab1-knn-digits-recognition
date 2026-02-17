@@ -5,6 +5,7 @@ torch
 torchvision
 umap-learn
 pytest
+unittest
 nbformat
 jupyter
 notebook
