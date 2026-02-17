@@ -4,3 +4,4 @@ lab_completed.ipynb
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
+tests/grading_config.yaml
