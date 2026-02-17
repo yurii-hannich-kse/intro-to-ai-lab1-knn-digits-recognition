@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Task 1: Flatten Images",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test.py::test_flatten_images",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "Task 2: Normalization",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test.py::test_normalize_data",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "Task 3: Train and Evaluate",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test.py::test_train_and_evaluate",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 2
+    },
+    {
+      "name": "Task 4: Find Best K",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test.py::test_find_best_k",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "Task 5: Shift Image",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test.py::test_shift_image_flat",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    }
+  ]
+}
